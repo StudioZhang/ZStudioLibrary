@@ -1,5 +1,5 @@
 # 小张Studio资源库
-**Powered by Github**
+[Github](https://gitee.com/Zhang-Digital/ZStudioLibrary) | [Gitee（国内用户推荐）](https://gitee.com/Zhang-Digital/ZStudioLibrary)
 ## 介绍
 小张Studio资源库由小张Studio工作室在Github上搭建，专为工作室资源存储用。
 部分资源来自网络，该资源库仅对资源进行收集整理。
